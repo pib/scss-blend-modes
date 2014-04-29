@@ -1,0 +1,14 @@
+{
+  "name": "scss-blend-modes",
+  "version": "0.0.2",
+  "main": "stylesheets/_blend-modes.scss",
+  "ignore": [
+    "compass-blend-modes.gemspec",
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "example",
+    "lib",
+    "templates"
+  ]
+}
